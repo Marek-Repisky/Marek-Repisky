@@ -1,5 +1,21 @@
 # 💫 About Me:
-Hi! I’m a software engineer passionate about building cool things — whether it’s for the web, games, or data pipelines.<br><br>I have strong communication skills, work ethic and solid experience with:<br>🌐 Frontend development<br>🖥️ PHP, Java, Python, C<br>💾 Databases (SQL, NoSQL)<br>⚙️ UML, Software design<br><br>What I’ve built so far:<br>✅ Instagram clone<br>✅ Database ETL & Analytics<br>✅ Side-scroller game in Pygame<br>✅ To-Do list and product catalog in PHP<br>✅ Text-based adventure game in C<br><br>I’m always excited to learn, collaborate, and take on new challenges — whether it’s on the frontend, backend, or somewhere in between. 🚀
+Hi! I’m a software engineer passionate about building cool things — whether it’s for the web, games, or data pipelines.<br>
+<br>
+I have strong communication skills, work ethic and solid experience with:<br>
+🌐 Frontend development<br>
+🖥️ PHP, Java, Python, C<br>
+💾 Databases (SQL, NoSQL)<br>
+⚙️ UML, Software design<br>
+<br>
+What I’ve built so far:<br>
+✅ Task Manager in PHP<br>
+✅ [Instagram clone](https://portfolio-instaclone.netlify.app)<br>
+✅ Database ETL & Analytics<br>
+✅ Side-scroller game in Pygame<br>
+✅ Text-based adventure game in C<br>
+✅ [Restaurant website](https://portfolio-la-delizia.netlify.app/)<br>
+<br>
+I’m always excited to learn, collaborate, and take on new challenges — whether it’s on the frontend, backend, or somewhere in between. 🚀
 
 
 <!-- ## 🌐 Socials:
